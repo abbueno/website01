@@ -1,13 +1,10 @@
 Projeto acompanhando vídeo aula no Youtube
 https://www.youtube.com/watch?v=L_JSUkn7LME&ab_channel=Jo%C3%A3oCarlosLimaeSilva
 
-Extensoes do VS CODE
 
+<<< Extensoes do VS CODE >>>
 Auto Close Tag
 GitLens-Git supercharged (Eric Amodio)
 Highlight Matching Tag (vincaslt)
 Live Server (Ritwick Dey)
 VS Color Picker (lihui)
-
-
-<<< parei no video n03 aos 32:00 minutos >>>
